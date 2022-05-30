@@ -1,2 +1,2 @@
-# my-site
-my first HTML project
+# HTML-site
+сайт-визитка
